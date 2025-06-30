@@ -11,6 +11,8 @@ A modern, responsive IPL dashboard built with **Next.js**, **TypeScript**, and *
 ---
 ## 📸 Preview
 ---
+![image](https://github.com/user-attachments/assets/f102db37-4910-4df8-bc08-22880e5edfff)
+
 ## 📌 Project Overview
 
 This dashboard provides IPL T20 match information, including:
