@@ -17,8 +17,8 @@ This dashboard provides IPL T20 match information, including:
 - 🔴 **Live Match Info** – Scores, batsmen, bowlers, commentary
 - 🕐 **Upcoming Matches** – Fixtures, venue, teams, and timing
 - 🏆 **Points Table** – Standings with NRR, wins, losses, etc
-
-# 🚀 Getting Started
+---
+## 🚀 Getting Started
 
 ### Prerequisites
 
