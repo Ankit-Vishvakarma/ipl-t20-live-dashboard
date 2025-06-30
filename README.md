@@ -33,6 +33,21 @@ Since the IPL is currently inactive, this app displays structured mock data stor
 This ensures a fully functional demo experience at any time.
 
 ---
+## 🛠 Tech Stack
+
+| Layer         | Technology                             |
+|---------------|-----------------------------------------|
+| Framework     | [Next.js](https://nextjs.org/)          |
+| Language      | TypeScript                              |
+| Styling       | Tailwind CSS                            |
+| Components    | shadcn/ui, Radix UI                     |
+| Theming       | next-themes                             |
+| Notifications | Sonner                                  |
+| Icons         | Lucide React                            |
+| Charts        | Recharts                                |
+| Scraping      | jsdom (for HTML parsing)                |
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
