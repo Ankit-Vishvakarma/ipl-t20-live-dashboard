@@ -40,12 +40,8 @@ This ensures a fully functional demo experience at any time.
 | Framework     | [Next.js](https://nextjs.org/)          |
 | Language      | TypeScript                              |
 | Styling       | Tailwind CSS                            |
-| Components    | shadcn/ui, Radix UI                     |
-| Theming       | next-themes                             |
-| Notifications | Sonner                                  |
 | Icons         | Lucide React                            |
 | Charts        | Recharts                                |
-| Scraping      | jsdom (for HTML parsing)                |
 
 ---
 ## 🚀 Getting Started
