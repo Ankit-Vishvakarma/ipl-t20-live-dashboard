@@ -12,6 +12,10 @@ A modern, responsive IPL dashboard built with **Next.js**, **TypeScript**, and *
 ## 📸 Preview
 ---
 ![image](https://github.com/user-attachments/assets/f102db37-4910-4df8-bc08-22880e5edfff)
+![image](https://github.com/user-attachments/assets/118fe818-03e2-4bd0-9250-7aa55c69cd6e)
+![image](https://github.com/user-attachments/assets/fd8fa29c-907b-4534-8dbf-e4e72af80060)
+
+
 
 ## 📌 Project Overview
 
