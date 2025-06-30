@@ -6,7 +6,7 @@ A modern, responsive IPL dashboard built with **Next.js**, **TypeScript**, and *
 
 ## 🚀 Live Demo
 
-> [👉 Live Demo (if deployed on Vercel/Netlify)](https://your-deployment-url.com)
+> [👉 Live Demo (https://ipl-t20-live-dashboard.vercel.app/)
 
 ---
 
