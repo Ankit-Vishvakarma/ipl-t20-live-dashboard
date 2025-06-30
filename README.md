@@ -12,7 +12,7 @@ A modern, responsive IPL dashboard built with **Next.js**, **TypeScript**, and *
 
 ## 📌 Project Overview
 
-This dashboard provides IPL 2025 match information, including:
+This dashboard provides IPL T20 match information, including:
 
 - 🔴 **Live Match Info** – Scores, batsmen, bowlers, commentary
 - 🕐 **Upcoming Matches** – Fixtures, venue, teams, and timing
