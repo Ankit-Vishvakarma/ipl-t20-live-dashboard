@@ -9,7 +9,8 @@ A modern, responsive IPL dashboard built with **Next.js**, **TypeScript**, and *
 > [👉 Live Demo (https://ipl-t20-live-dashboard.vercel.app/)
 
 ---
-
+## 📸 Preview
+---
 ## 📌 Project Overview
 
 This dashboard provides IPL T20 match information, including:
