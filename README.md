@@ -21,6 +21,18 @@ This dashboard provides IPL T20 match information, including:
 - 📊**MatchScorecard** – Detailed breakdown with visuals
 - 📊**Charts** – Wickets/Runs/Comparison graphs
 ---
+## 🔌 Data Sources
+
+### ✅ Current Mode: **Mock Data**
+
+Since the IPL is currently inactive, this app displays structured mock data stored in:
+
+- `/data/mockData.ts` – Live match, points table, and fixtures
+- `/data/teams.ts` – Team metadata including logos and colors
+
+This ensures a fully functional demo experience at any time.
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
